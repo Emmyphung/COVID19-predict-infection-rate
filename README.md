@@ -10,7 +10,7 @@ When going over Johns Hopkins’ official United States COVID-19 daily data repo
 2) https://coronavirus.jhu.edu/ <br>
 
 **Models:**
-1) For infection-rate prediction: Ridge Regression, Lasso Regression, Random Forest, Gradient Boosting, Neural Network <br>
-2) For risk-level classification: Logistic Regression, SVM, Perceptron Gradient Boosting, Neural Network <br>
+1) **For infection-rate prediction:** Ridge Regression, Lasso Regression, Random Forest, Gradient Boosting, Neural Network <br>
+2) **For risk-level classification:** Logistic Regression, SVM, Perceptron Gradient Boosting, Neural Network <br>
 
 <center><img src="evaluation/AUC.png"/></center>
